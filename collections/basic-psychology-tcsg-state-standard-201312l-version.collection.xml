@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="William Burgan">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12175</md:content-id>
     <md:title>Basic Psychology (TCSG State Standard 201312L Version)</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>9e8a39bc-de1f-497f-81bb-d9d37ea9e961</md:uuid>
-<md:slug>basic-psychology-tcsg-state-standard-201312l-version</md:slug>
-</metadata>
+    <md:slug>basic-psychology-tcsg-state-standard-201312l-version</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Module 1: Contemporary Perspectives</md:title>
